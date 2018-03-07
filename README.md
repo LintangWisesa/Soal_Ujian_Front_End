@@ -26,7 +26,7 @@ Buatlah sebuah React project yang dapat memfasilitasi user untuk melihat daftar 
 - Deploy project.
 - Upload source code ke Github.
 
-![Soal 2.a](https://2.bp.blogspot.com/-BFWgCktFk5E/Wp9Hj0yAprI/AAAAAAAADzk/71ipVI5_VYE0V5JnoH8UxsHDVm5HTX1ewCLcBGAs/s1600/soal2a.png)
+![Soal 2.a](https://3.bp.blogspot.com/-RYKi7e4TTxo/Wp-pS_z3uTI/AAAAAAAAD0I/uaoQawx57CQhbcz2SrvfSGMZzzILGo59gCLcBGAs/s1600/soal2a.png)
 
 ![Soal 2.b](https://1.bp.blogspot.com/-Ch5hETSDO2U/Wp9Hk44h49I/AAAAAAAADzs/mFoH08uDijcZp3I2pPoROhdqic4cmdjqQCLcBGAs/s1600/soal2b.png)
 
