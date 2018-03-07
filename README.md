@@ -2,7 +2,7 @@
 
 ![Lintang_Purwadhika](https://static.wixstatic.com/media/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png/v1/fill/w_246,h_39,al_c,usm_0.66_1.00_0.01/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png)
 
-Materi front end dapat diakses di [klik di sini!](https://github.com/LintangWisesa/Purwadhika-JC04-02_FrontEndWeb)
+**Materi Front End Web Dev dapat diakses di [klik sini!](https://github.com/LintangWisesa/Purwadhika-JC04-02_FrontEndWeb)**
 
 ### Soal 1 - React Passing Data (Props & State)
 
@@ -22,6 +22,7 @@ Buatlah dua buah komponen React, di mana setelah button ditekan, input user di k
 Buatlah sebuah React project yang dapat memfasilitasi user untuk melihat daftar pemain dari sebuah tim sepak bola. Gunakan API yang disediakan [https://www.thesportsdb.com/](https://www.thesportsdb.com/), data yang diambil adalah nama pemain, posisi, foto dan deskripsi pemain. Tampilkan daftar dalam bentuk panel bootstrap. Requirement:
 - Gunakan API [https://www.thesportsdb.com/](https://www.thesportsdb.com/).
 - Data yang diambil: nama, posisi, foto & deskripsi.
+- Output berupa panel Bootstrap.
 - Deploy project.
 - Upload source code ke Github.
 
