@@ -35,3 +35,14 @@ Buatlah sebuah React project yang dapat memfasilitasi user untuk melihat daftar 
 Silakan kerjakan soal yang tersedia di [klik di sini!](https://lintangwisesa.typeform.com/to/XHCMvY)
 
 ![Soal 3](https://3.bp.blogspot.com/-e9NzNA-uU-E/Wp9HkxlDFdI/AAAAAAAADzo/6nG1dY7v4rU2K3w_M6YHts52nwrWzVv0QCLcBGAs/s1600/soal3.png)
+
+#
+
+#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
+
+[Facebook](https://www.facebook.com/lintangbagus) | 
+[Twitter](https://twitter.com/Lintang_Wisesa) |
+[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
+[Youtube](https://www.youtube.com/user/lintangbagus) | 
+:octocat: [GitHub](https://github.com/LintangWisesa) |
+[Hackster](https://www.hackster.io/lintangwisesa)
